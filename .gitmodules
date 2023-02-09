@@ -1,4 +1,4 @@
-[submodule "Control_Interface_Module"]
+[submodule "Control_Interface"]
 	path = Control_Interface
 	url = https://github.com/nsviel/Obstacle-Control_Interface_Module
 [submodule "Edge_Orchestration_Module"]
