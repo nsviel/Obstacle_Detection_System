@@ -9,4 +9,4 @@
 	url = https://github.com/nsviel/Obstacle-Data_Acquisition_Module
 [submodule "Data_Processing_Component"]
 	path = Data_Processing_Component
-	url = https://github.com/nsviel/Velodium
+	url = https://github.com/nsviel/-Obstacle-Data_processing_component
