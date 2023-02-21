@@ -2,11 +2,11 @@
 	path = Control_interface_module
 	url = https://github.com/nsviel/Obstacle-Control_Interface_Module
 [submodule "Edge_Orchestration_Module"]
-	path = Edge_orchestrator_component
+	path = Edge_server_module/Edge_orchestrator_component
 	url = https://github.com/nsviel/Obstacle-Edge_Orchestration_Module
 [submodule "Data_Acquisition_Module"]
 	path = Data_acquisition_module
 	url = https://github.com/nsviel/Obstacle-Data_Acquisition_Module
 [submodule "Data_Processing_Component"]
-	path = Data_processing_component
+	path = Edge_server_module/Data_processing_component
 	url = https://github.com/nsviel/-Obstacle-Data_processing_component
