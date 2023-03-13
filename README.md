@@ -1,7 +1,7 @@
 # Obstacle Detection System
 We present a full implementation of an Edge computing system using LiDAR capture for automotive use case. Basically, a simple Python program (Data acquisition module) receive data from a LiDAR installed inside the train cokpit or car cabin and resend it, via wireless network, to an Edge server where the data will be processed. Here, these processes comprise convertion from raw data to exploitable PLY binary point clouds, a SLAM ego-localization and AI obstacle detection algorithm. If a potential obstacle is detected along the train rails (e.g, abandonned car, cattle), a warning is sent to the local train operator.
 
-![system](https://user-images.githubusercontent.com/80487132/224792456-89c9a608-4ae7-4ea9-b812-0a6ea8b6f149.png)
+![system](https://user-images.githubusercontent.com/80487132/224792706-490c0671-9a5d-467d-a583-57ae77e06f9e.png)
 
 ## Modules
 
