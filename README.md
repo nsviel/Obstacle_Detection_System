@@ -5,7 +5,7 @@ We present a full implementation of an Edge computing system using LiDAR capture
 
 ## Download
 
-Use the command for cloning the whole system with submodules:
+You can use the following command for cloning the whole system with submodules:
 
 'git clone --recurse-submodules https://github.com/nsviel/Obstacle_detection_system'
 
