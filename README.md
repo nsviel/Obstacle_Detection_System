@@ -3,6 +3,12 @@ We present a full implementation of an Edge computing system using LiDAR capture
 
 ![system](https://user-images.githubusercontent.com/80487132/224792706-490c0671-9a5d-467d-a583-57ae77e06f9e.png)
 
+## Download
+
+Use the command for cloning the whole system with submodules:
+
+'git clone --recurse-submodules https://github.com/nsviel/Obstacle_detection_system'
+
 ## Modules
 
 The proposed system is composed of 3 modules:
