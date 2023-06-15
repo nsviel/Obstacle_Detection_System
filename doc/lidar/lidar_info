@@ -1,0 +1,26 @@
+LiDAR 1:
+-----------
+Firmware: 3.0.41.1
+-----------
+MAC: 60-76-88-10-4d-75
+IP lidar (also web interface): 192.168.1.201
+IP destination: 192.168.1.221
+Mask: 255.255.252.0
+Gateway: 192.168.1.1
+Port lidar: 2368
+Port ordi: 8308
+-----------
+
+
+LiDAR 2:
+-----------
+Firmware: 3.0.41.1
+-----------
+MAC: 60-76-88-10-4d-20
+IP lidar (also web interface): 192.168.2.201
+IP destination: 192.168.2.221
+Mask: 255.255.252.0
+Gateway: 192.168.1.1
+Port lidar: 2369
+Port ordi: 8309
+-----------
