@@ -1,0 +1,12 @@
+[submodule "Obstacle_Ground_CAPTURE"]
+	path = Obstacle_Ground_CAPTURE
+	url = https://github.com/nsviel/Obstacle_Ground_CAPTURE
+[submodule "Obstacle_Cloud_CONTROL"]
+	path = Obstacle_Cloud_CONTROL
+	url = https://github.com/nsviel/Obstacle_Cloud_CONTROL
+[submodule "Obstacle_Edge_HUB"]
+	path = Obstacle_Edge_HUB
+	url = https://github.com/nsviel/Obstacle_Edge_HUB
+[submodule "Obstacle_Edge_SLAM"]
+	path = Obstacle_Edge_SLAM
+	url = https://github.com/nsviel/Obstacle_Edge_SLAM
